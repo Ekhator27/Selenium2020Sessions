@@ -31,6 +31,8 @@ public class Shopping {
 			.doPayment("1121212@hdfc")
 				.logout();
 		
+		System.out.println("CODEEND");
+		
 		
 		
 	}
